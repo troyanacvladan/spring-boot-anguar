@@ -1,3 +1,0 @@
-2020-08-03 09:02:13.516  INFO 13488 --- [http-nio-8080-exec-2] c.e.demo.controller.StartPageController  : Method started
-2020-08-03 09:02:16.403  INFO 13488 --- [http-nio-8080-exec-3] c.e.demo.controller.StartPageController  : Method started
-2020-08-03 09:02:23.978  INFO 13488 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
